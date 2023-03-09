@@ -1,0 +1,41 @@
+_repo: Cheese-and-its-economical-uses-in-the-diet_70067
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hunt, Caroline Louisa
+    alias: Hunt, Caroline L.
+    birthdate: 1865
+    deathdate: 1927
+    gutenberg_agent_id: '45479'
+    url: http://www.gutenberg.org/2009/agents/45479
+  - agent_name: Langworthy, C. F. (Charles Ford)
+    alias: Langworthy, Charles Ford
+    birthdate: 1864
+    deathdate: 1932
+    gutenberg_agent_id: '55578'
+    url: http://www.gutenberg.org/2009/agents/55578
+description: ''
+gutenberg_issued: '2023-02-18'
+identifiers:
+  gutenberg: '70067'
+language: en
+pgterms:marc904: https://archive.org/details/cheeseitseconomi00lang/page/n3/mode/2up
+pgterms:marc905: 20201117161056langworthy
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bGovernment Printing Office, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: U. S. Department of Agriculture Farmers' Bulletin No. 487
+subjects:
+- !lcsh 'Cheese'
+- !lcsh 'Cooking (Cheese)'
+- !lcsh 'Cookbooks'
+- !lcc 'TX'
+- GITenberg
+title: Cheese and its economical uses in the diet
+url: http://www.gutenberg.org/ebooks/70067
